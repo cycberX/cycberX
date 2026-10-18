@@ -1,4 +1,26 @@
-<h2 align="left">Hi 👋! My name is Sanskar Bandgar and I'm a fullstack Developer from Baramati, Pune</h2>
+<div align="center">
+
+  <!-- HERO BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,36,48&height=280&section=header&text=Sanskar%20Bandgar&fontSize=64&fontAlignY=36&desc=Full-Stack%20Architect%20%7C%20Creative%20Engineer%20%7C%20Builder&descFontSize=22&descAlignY=58&fontColor=ffffff" width="100%" alt="Header Banner" />
+
+  <!-- DYNAMIC TYPING SUBTITLE -->
+  <a href="https://mrsanskar.vercel.app">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer;Building+Scalable+Modern+Web+Applications;MERN+%26+Next.js+Architect;Exploring+AI+Agents+%26+Cloud+Deployments" alt="Typing SVG" />
+  </a>
+
+  <br/><br/>
+
+  <!-- QUICK INFO PILLS -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/🎓_College-SVPM_College_of_Engineering-blue?style=for-the-badge&labelColor=0d1117&color=4facfe" alt="SVPM College" />
+    <img src="https://img.shields.io/badge/📍_Location-Baramati%2C_Pune-blueviolet?style=for-the-badge&labelColor=0d1117&color=7f53ac" alt="Location" />
+    <img src="https://img.shields.io/badge/⏰_Timezone-IST_(UTC%2B05:30)-brightgreen?style=for-the-badge&labelColor=0d1117&color=00c6ff" alt="Timezone" />
+    <a href="https://mrsanskar.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_Portfolio-mrsanskar.vercel.app-ff5e62?style=for-the-badge&labelColor=0d1117&color=ff9966" alt="Portfolio" />
+    </a>
+  </p>
+
+---
 
 ###
 
@@ -10,34 +32,29 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+
+
 </div>
 
-###
 
-<br clear="both">
+### 🌐 Social & Web Profiles
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="61" height="35" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="61" height="35" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="61" height="35" alt="linkedin logo"  />
-</div>
+* **Portfolio Website:** [mrsanskar.vercel.app](https://mrsanskar.vercel.app)
+* **LinkedIn:** [sanskar-bandgar-719bb336a](https://www.google.com/search?q=https://linkedin.com/in/sanskar-bandgar-719bb336a)
+* **GitHub:** [cycberX](https://www.google.com/search?q=https://github.com/cycberX)
+* **Instagram:** [@officialsanskarbandgar](https://www.google.com/search?q=https://instagram.com/officialsanskarbandgar)
+* **Email:** [bandgarsanskar19@gmail.com](https://www.google.com/search?q=mailto%3Abandgarsanskar19%40gmail.com)
+* **College:** SVPM College of Engineering, Baramati (`@svpm_engg_college`)
 
+---
+
+### 🛠️ Core Tech Stack (From Original Profile)
+
+* **Languages:** JavaScript (ES6+), HTML5, CSS3
+* **Frontend Frameworks & Libraries:** React.js, Next.js
+* **Styling & Design:** Tailwind CSS
+* **Backend & Runtime:** Node.js, Express.js
+* **Databases & Cloud Storage:** MongoDB, MongoDB Atlas
 ###
 
 <br clear="both">
